@@ -27,7 +27,7 @@
 		"node-fetch": "^3.3.2"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "1.8.1",
+		"@biomejs/biome": "1.9.1",
 		"prettier": "3.3.2"
 	}
 }
